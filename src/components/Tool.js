@@ -8,7 +8,6 @@ import sub2ass from '../libs/readSub/sub2ass';
 import googleTranslate from '../libs/googleTranslate';
 import FFmpeg from '@ffmpeg/ffmpeg';
 import SimpleFS from '@forlagshuset/simple-fs';
-import { IoSettings } from "react-icons/io5";
 
 const Style = styled.div`
     display: flex;

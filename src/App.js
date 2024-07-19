@@ -37,13 +37,13 @@ const Style = styled.div`
     }
 `;
 
-export default function App({ defaultLang }) {
+export default function App() {
     const subtitleHistory = useRef([]);
     const notificationSystem = useRef(null);
     const [player, setPlayer] = useState(null);
     const [loading, setLoading] = useState('');
     const [processing, setProcessing] = useState(0);
-    const [language, setLanguage] = useState(defaultLang);
+    const [language, setLanguage] = useState('pt');
     const [subtitle, setSubtitleOriginal] = useState([]);
     const [waveform, setWaveform] = useState(null);
     const [playing, setPlaying] = useState(false);
