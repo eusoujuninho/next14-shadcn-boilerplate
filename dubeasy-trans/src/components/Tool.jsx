@@ -5,7 +5,7 @@ import React, { useState, useCallback } from 'react';
 import { getExt, download } from '../utils';
 import { file2sub, sub2vtt, sub2srt, sub2txt } from '../libs/readSub';
 import sub2ass from '../libs/readSub/sub2ass';
-import googleTranslate from '../libs/googleTranslate';
+import translateText from '../libs/googleTranslate';
 import FFmpeg from '@ffmpeg/ffmpeg';
 import SimpleFS from '@forlagshuset/simple-fs';
 
@@ -454,7 +454,7 @@ export default function Header({
 
     const onTranslate = useCallback(() => {
         setLoading(t('TRANSLATING'));
-        googleTranslate(formatSub(subtitle), translate)
+        translateText(formatSub(subtitle), translate)
             .then((res) => {
                 setLoading('');
                 setSubtitle(formatSub(res));
