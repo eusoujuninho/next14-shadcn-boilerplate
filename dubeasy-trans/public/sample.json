@@ -5,7 +5,9 @@
       "text": "那一天",
       "text2": "Aquele dia",
       "speaker": 1,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:01.280",
@@ -13,7 +15,9 @@
       "text": "星星降落的日子",
       "text2": "O dia em que as estrelas caíram",
       "speaker": 1,
-      "confidence": 0.95
+      "confidence": 0.95,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:03.148",
@@ -21,7 +25,9 @@
       "text": "那简直是",
       "text2": "Era como se",
       "speaker": 1,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:04.446",
@@ -29,7 +35,9 @@
       "text": "简直",
       "text2": "Como se",
       "speaker": 1,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:05.120",
@@ -37,7 +45,9 @@
       "text": "像梦中的景色一样",
       "text2": "Como uma paisagem de sonho",
       "speaker": 1,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:07.438",
@@ -45,7 +55,9 @@
       "text": "美丽的景色",
       "text2": "Uma bela vista",
       "speaker": 1,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:24.596",
@@ -53,7 +65,9 @@
       "text": "放学后",
       "text2": "Depois da aula",
       "speaker": 2,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:25.705",
@@ -61,7 +75,9 @@
       "text": "不好",
       "text2": "Ruim",
       "speaker": 2,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:26.475",
@@ -69,7 +85,9 @@
       "text": "我今天开始打工",
       "text2": "Eu começo a trabalhar hoje",
       "speaker": 2,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:29.345",
@@ -77,7 +95,9 @@
       "text": "已经讨厌这样的乡下了",
       "text2": "Já odeio esse campo",
       "speaker": 2,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:31.969",
@@ -85,7 +105,9 @@
       "text": "讨厌这样的人生",
       "text2": "Odeio essa vida",
       "speaker": 2,
-      "confidence": 0.95
+      "confidence": 0.95,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:33.927",
@@ -93,7 +115,9 @@
       "text": "来世请让我成为东京的帅哥吧",
       "text2": "Na próxima vida, por favor, me faça um cara bonito de Tóquio",
       "speaker": 2,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:42.083",
@@ -101,7 +125,9 @@
       "text": "哪里",
       "text2": "Onde",
       "speaker": 3,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:43.052",
@@ -109,7 +135,9 @@
       "text": "那么说来",
       "text2": "Falando nisso",
       "speaker": 3,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:44.554",
@@ -117,7 +145,9 @@
       "text": "我觉得好像一直做着奇怪的梦",
       "text2": "Eu sinto que tenho tido sonhos estranhos",
       "speaker": 3,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:48.324",
@@ -125,7 +155,9 @@
       "text": "别人的人生中…梦想",
       "text2": "Na vida de outra pessoa... um sonho",
       "speaker": 3,
-      "confidence": 0.95
+      "confidence": 0.95,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:51.452",
@@ -133,7 +165,9 @@
       "text": "这是什么",
       "text2": "O que é isso",
       "speaker": 3,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:54.778",
@@ -141,7 +175,9 @@
       "text": "这个，这个",
       "text2": "Isso, isso",
       "speaker": 3,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:56.724",
@@ -149,7 +185,9 @@
       "text": "这难道是",
       "text2": "Será que isso é",
       "speaker": 3,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:00:58.076",
@@ -157,7 +195,9 @@
       "text": "我们在梦中",
       "text2": "Nós estamos em um sonho",
       "speaker": 3,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:00.136",
@@ -165,7 +205,9 @@
       "text": "替换着",
       "text2": "Trocando",
       "speaker": 3,
-      "confidence": 0.95
+      "confidence": 0.95,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:07.369",
@@ -173,7 +215,9 @@
       "text": "确实的事情",
       "text2": "A única coisa certa",
       "speaker": 4,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:08.757",
@@ -181,7 +225,9 @@
       "text": "只有一个",
       "text2": "É que",
       "speaker": 4,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:10.325",
@@ -189,7 +235,9 @@
       "text": "我们是",
       "text2": "Nós somos",
       "speaker": 4,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:11.425",
@@ -197,7 +245,9 @@
       "text": "见面的话绝对",
       "text2": "Se nos encontrarmos, com certeza",
       "speaker": 4,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:12.681",
@@ -205,7 +255,9 @@
       "text": "马上就明白",
       "text2": "Vamos entender imediatamente",
       "speaker": 4,
-      "confidence": 0.95
+      "confidence": 0.95,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:14.255",
@@ -213,7 +265,9 @@
       "text": "我想说",
       "text2": "Eu queria dizer",
       "speaker": 4,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:16.075",
@@ -221,7 +275,9 @@
       "text": "你是世界的无论在哪里",
       "text2": "Não importa onde você esteja no mundo",
       "speaker": 4,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:17.955",
@@ -229,7 +285,9 @@
       "text": "一定要去见你",
       "text2": "Eu irei te encontrar",
       "speaker": 4,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:20.141",
@@ -237,7 +295,9 @@
       "text": "你是",
       "text2": "Você é",
       "speaker": 4,
-      "confidence": 0.98
+      "confidence": 0.98,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:21.361",
@@ -245,7 +305,9 @@
       "text": "谁",
       "text2": "Quem",
       "speaker": 4,
-      "confidence": 0.95
+      "confidence": 0.95,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:22.197",
@@ -253,7 +315,9 @@
       "text": "你啊",
       "text2": "Você",
       "speaker": 4,
-      "confidence": 0.99
+      "confidence": 0.99,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:23.483",
@@ -261,7 +325,9 @@
       "text": "是谁",
       "text2": "Quem é",
       "speaker": 4,
-      "confidence": 0.97
+      "confidence": 0.97,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     },
     {
       "start": "00:01:25.693",
@@ -269,7 +335,8 @@
       "text": "你的名字是",
       "text2": "Seu nome é",
       "speaker": 4,
-      "confidence": 0.96
+      "confidence": 0.96,
+      "text_lang": "zh-CN",
+      "text2_lang": "pt-BR"
     }
-  ]
-  
+]  
