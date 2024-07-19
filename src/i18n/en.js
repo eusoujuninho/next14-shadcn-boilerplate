@@ -1,4 +1,4 @@
-export const en = {
+export default {
     LOADING: 'Loading...',
     SUB_TEXT: 'Subtitle Text',
     OPEN_VIDEO: 'Open Video',

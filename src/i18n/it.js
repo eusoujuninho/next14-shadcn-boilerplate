@@ -1,4 +1,4 @@
-export const it = {
+export default {
     LOADING: "Caricamento in corso...",
     SUB_TEXT: "Sottotitoli",
     OPEN_VIDEO: "Apri video",

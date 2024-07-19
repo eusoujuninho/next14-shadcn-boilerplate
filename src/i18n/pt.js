@@ -1,4 +1,4 @@
-export const pt = {
+export default {
     LOADING: 'Carregando...',
     SUB_TEXT: 'Texto da Legenda',
     OPEN_VIDEO: 'Abrir Vídeo',

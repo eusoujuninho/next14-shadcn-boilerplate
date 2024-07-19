@@ -1,4 +1,4 @@
-import { ContextMenu, MenuItem, ContextMenuTrigger } from 'react-contextmenu';
+// import { ContextMenu, MenuItem, ContextMenuTrigger } from 'react-contextmenu';
 import React, { useEffect, useCallback } from 'react';
 import { Translate } from 'react-i18nify';
 import styled from 'styled-components';
@@ -309,7 +309,7 @@ export default React.memo(
                                 }}
                                 onDoubleClick={(event) => onDoubleClick(sub, event)}
                             >
-                                <ContextMenuTrigger id="contextmenu" holdToDisplay={-1}>
+                                {/* <ContextMenuTrigger id="contextmenu" holdToDisplay={-1}>
                                     <div
                                         className="sub-handle"
                                         style={{
@@ -338,19 +338,19 @@ export default React.memo(
                                         onMouseDown={(event) => onMouseDown(sub, event, 'right')}
                                     ></div>
                                     <div className="sub-duration">{sub.duration}</div>
-                                </ContextMenuTrigger>
+                                </ContextMenuTrigger> */}
                             </div>
                         );
                     })}
                 </div>
-                <ContextMenu id="contextmenu">
+                {/* <ContextMenu id="contextmenu">
                     <MenuItem onClick={() => removeSub(lastSub)}>
                         <Translate value="DELETE" />
                     </MenuItem>
                     <MenuItem onClick={() => mergeSub(lastSub)}>
                         <Translate value="MERGE" />
                     </MenuItem>
-                </ContextMenu>
+                </ContextMenu> */}
             </Timeline>
         );
     },

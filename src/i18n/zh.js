@@ -1,4 +1,4 @@
-export const zh = {
+export default {
     LOADING: '加载中...',
     SUB_TEXT: '字幕文本',
     OPEN_VIDEO: '打开视频',

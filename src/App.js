@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import NotificationSystem from 'react-notification-system';
 import DT from 'duration-time-conversion';
 import isEqual from 'lodash/isEqual';
 import styled from 'styled-components';
@@ -106,16 +105,8 @@ export default function App({ defaultLang }) {
 
     const notify = useCallback(
         (obj) => {
-            // https://github.com/igorprado/react-notification-system
-            const notification = notificationSystem.current;
-            notification.clearNotifications();
-            notification.addNotification({
-                position: 'tc',
-                dismissible: 'none',
-                autoDismiss: 2,
-                message: obj.message,
-                level: obj.level,
-            });
+            alert('notification!');
+            console.log('notification', obj);
         },
         [notificationSystem],
     );
@@ -315,7 +306,7 @@ export default function App({ defaultLang }) {
             <Footer {...props} />
             {loading ? <Loading loading={loading} /> : null}
             {processing > 0 && processing < 100 ? <ProgressBar processing={processing} /> : null}
-            <NotificationSystem ref={notificationSystem} allowHTML={true} />
+            {/* <NotificationSystem ref={notificationSystem} allowHTML={true} /> */}
         </Style>
     );
 }

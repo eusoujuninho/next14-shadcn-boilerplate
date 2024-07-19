@@ -1,8 +1,8 @@
-import en from './en.json';
-import it from './it.json';
-import zh from './zh.json';
-import tr from './tr.json';
-import pt from './pt-BR.json';
+import en from './en.js';
+import it from './it.js';
+import zh from './zh.js';
+import tr from './tr.js';
+import pt from './pt.js';
 
 const i18n = {
     en,

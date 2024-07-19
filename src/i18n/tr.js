@@ -1,4 +1,4 @@
-export const tr = {
+export default {
     LOADING: 'Loading...',
     SUB_TEXT: 'Subtitle Text',
     OPEN_VIDEO: 'Video Aç',
