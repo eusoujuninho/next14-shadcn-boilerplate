@@ -55,7 +55,7 @@ function getTranslationService(provider) {
 }
 
 // Function to translate text
-async function translateText(text, lang, provider = 'google') {
+export default async function translateText(text, lang, provider = 'google') {
   const translationService = getTranslationService(provider);
   return translationService(text, lang);
 }
